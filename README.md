@@ -12,7 +12,7 @@ This is why I desisnged my own flair and wrote this script to keep it up to date
 ![stackoverflow-badge](https://raw.githubusercontent.com/Caliber-X/stackoverflow-badge/master/stackoverflow-badge.svg)
 
 ### Old Flair Badge
-![old flair](https://stackoverflow.com/users/flair/4198170.png?theme=dark)
+![old flair](https://stackoverflow.com/users/flair/18334720.png?theme=dark)
 
 
 ## ⭐ Features
